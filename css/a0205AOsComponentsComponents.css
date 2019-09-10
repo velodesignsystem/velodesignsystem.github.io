@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,700,300,600,200');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,200,400,700');
 
 
 .a0205aoscomponentscomponents {
@@ -3230,19 +3230,20 @@ div {
 }
 .a0205aoscomponentscomponents .rectangle {
   background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 180px;
-  height              : 41px;
+  top                 : 181px;
+  height              : 39px;
   box-sizing          : border-box;
-  width               : 146px;
+  width               : 144px;
   position            : absolute;
   margin              : 0;
-  left                : 469px;
+  left                : 470px;
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 0.0;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
