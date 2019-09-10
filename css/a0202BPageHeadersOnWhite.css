@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,700,300,600,200');
 
 
 .a0202bpageheadersonwhite {
@@ -36,7 +36,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 280px;
   height              : auto;
-  width               : 872px;
+  width               : 871px;
   position            : absolute;
   margin              : 0;
   left                : 304px;
@@ -288,7 +288,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 80px 0 0 0;
-  width               : 872px;
+  width               : 871px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -302,7 +302,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 872px;
+  width               : 871px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -378,7 +378,7 @@ div {
   position            : relative;
   height              : 2150px;
   margin              : 13px 0 0 0;
-  width               : 872px;
+  width               : 871px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
