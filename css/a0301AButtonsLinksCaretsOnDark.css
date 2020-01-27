@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,400,200,700');
 
 
 .a0301abuttonslinkscaretsondark {
   width               : 100%;
   min-width           : 1200px;
   height              : 100vh;
-  min-height          : 2035px;
+  min-height          : 3196px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -36,13 +36,405 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 280px;
   height              : auto;
-  width               : 871px;
+  width               : 879px;
   position            : absolute;
   margin              : 0;
   left                : 304px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 871px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 871px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .title {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 36px;
+  margin              : 0;
+  width               : 489px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 488px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 .sectioncardtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : relative;
+  margin              : 0;
+  left                : 25px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(13, 59, 95, 1.0);
+  text-align          : left;
+  line-height         : 38.0px;
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 1050px;
+  margin              : 12px 0 0 0;
+  width               : 871px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .backgroundcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1049px;
+  width               : 870px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .backgroundcard .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1049px;
+  width               : 870px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .backgroundcard .rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1049px;
+  width               : 871px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 822px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 766px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 80px 0 0 0;
+  width               : 879px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 879px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .title {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 36px;
+  margin              : 0;
+  width               : 489px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 488px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 .sectioncardtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : relative;
+  margin              : 0;
+  left                : 25px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(13, 59, 95, 1.0);
+  text-align          : left;
+  line-height         : 38.0px;
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 958px;
+  margin              : 12px 0 0 0;
+  width               : 879px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 957px;
+  width               : 878px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 957px;
+  width               : 878px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard .rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 957px;
+  width               : 879px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 831px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 830px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
 }
 .a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview {
   display             : flex;
@@ -52,7 +444,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
-  margin              : 0;
+  margin              : 80px 0 0 0;
   width               : 871px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
@@ -141,7 +533,7 @@ div {
 .a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 1325px;
+  height              : 505px;
   margin              : 12px 0 0 0;
   width               : 871px;
   -ms-transform       : rotate(0deg); /* IE 9 */
@@ -151,7 +543,7 @@ div {
 .a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 1324px;
+  height              : 504px;
   width               : 870px;
   position            : absolute;
   margin              : 0;
@@ -164,7 +556,7 @@ div {
 .a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 1324px;
+  height              : 504px;
   width               : 870px;
   position            : absolute;
   margin              : 0;
@@ -176,7 +568,7 @@ div {
 .a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 1324px;
+  height              : 504px;
   width               : 871px;
   position            : absolute;
   margin              : 0;
@@ -201,22 +593,12 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .screenshot20190826at124145am {
+.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmap {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 427px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a0301abuttonslinkscaretsondark .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .screenshot20190826at124152am {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  margin              : 24px 0 0 0;
-  width               : 427px;
+  width               : 207px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1577,7 +1959,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1592,6 +1974,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item5 {
   background-color    : rgba(255,255,255,0.0);
@@ -1629,7 +2028,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1644,6 +2043,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item6 {
   background-color    : rgba(255,255,255,0.0);
@@ -1681,7 +2097,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1696,6 +2112,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group4header {
   background-color    : rgba(255,255,255,0.0);
@@ -2812,6 +3245,58 @@ div {
   line-height         : 18.0px;
 }
 .a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group5item12 .thevelolookandfecopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : auto;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 42px;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group5item131 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 42px;
+  margin              : 0px 0 0 0;
+  width               : 280px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group5item131 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(193, 198, 204, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a0301abuttonslinkscaretsondark .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy-layout-container {
   pointer-events      : none;
   flex-direction      : column;
   top                 : 0;

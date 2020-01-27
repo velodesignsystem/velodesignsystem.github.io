@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,400,200,700');
 
 
 .a0302btextinputfieldsonwhite {
@@ -36,7 +36,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 280px;
   height              : auto;
-  width               : 871px;
+  width               : 872px;
   position            : absolute;
   margin              : 0;
   left                : 304px;
@@ -53,7 +53,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 871px;
+  width               : 872px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -67,7 +67,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 871px;
+  width               : 872px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -141,9 +141,9 @@ div {
 .a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 1526px;
+  height              : 969px;
   margin              : 12px 0 0 0;
-  width               : 871px;
+  width               : 872px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -151,7 +151,7 @@ div {
 .a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 1525px;
+  height              : 968px;
   width               : 870px;
   position            : absolute;
   margin              : 0;
@@ -164,7 +164,7 @@ div {
 .a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 1525px;
+  height              : 968px;
   width               : 870px;
   position            : absolute;
   margin              : 0;
@@ -176,7 +176,7 @@ div {
 .a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 1525px;
+  height              : 968px;
   width               : 871px;
   position            : absolute;
   margin              : 0;
@@ -201,32 +201,12 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmap {
+.a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy8 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 291px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .screenshot20190826at123508am {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  margin              : 24px 0 0 0;
-  width               : 291px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.a0302btextinputfieldsonwhite .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .screenshot20190826at123516am {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  margin              : 24px 0 0 0;
-  width               : 291px;
+  width               : 456px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1118,12 +1098,13 @@ div {
   height              : 42px;
   margin              : 0px 0 0 0;
   width               : 280px;
+  overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group2item2 .rectangl {
-  background-color    : rgba(245, 245, 245, 1.0);
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group2item2 .background {
+  background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 42px;
   width               : 280px;
@@ -1144,10 +1125,10 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
-  font-weight         : 700;
+  font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(9, 82, 131, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1162,6 +1143,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group2item2 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group2item2 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group2item3 {
   background-color    : rgba(255,255,255,0.0);
@@ -1569,7 +1567,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1584,6 +1582,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item5 {
   background-color    : rgba(255,255,255,0.0);
@@ -1621,7 +1636,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1636,6 +1651,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item6 {
   background-color    : rgba(255,255,255,0.0);
@@ -1673,7 +1705,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1688,6 +1720,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group4header {
   background-color    : rgba(255,255,255,0.0);
@@ -2804,6 +2853,58 @@ div {
   line-height         : 18.0px;
 }
 .a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group5item12 .thevelolookandfecopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : auto;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 42px;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group5item131 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 42px;
+  margin              : 0px 0 0 0;
+  width               : 280px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group5item131 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(193, 198, 204, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a0302btextinputfieldsonwhite .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy-layout-container {
   pointer-events      : none;
   flex-direction      : column;
   top                 : 0;

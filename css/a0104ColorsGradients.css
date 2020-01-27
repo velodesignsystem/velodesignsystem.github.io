@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,400,200,700');
 
 
 .a0104colorsgradients {
@@ -1595,7 +1595,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1610,6 +1610,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item5 {
   background-color    : rgba(255,255,255,0.0);
@@ -1647,7 +1664,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1662,6 +1679,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item6 {
   background-color    : rgba(255,255,255,0.0);
@@ -1699,7 +1733,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1714,6 +1748,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1:hover {
+  opacity             : .1;
 }
 .a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group4header {
   background-color    : rgba(255,255,255,0.0);
@@ -2830,6 +2881,58 @@ div {
   line-height         : 18.0px;
 }
 .a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group5item12 .thevelolookandfecopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : auto;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 42px;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group5item131 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 42px;
+  margin              : 0px 0 0 0;
+  width               : 280px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group5item131 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(193, 198, 204, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a0104colorsgradients .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy-layout-container {
   pointer-events      : none;
   flex-direction      : column;
   top                 : 0;

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,600,400,200,700');
 
 
 .index {
@@ -1108,7 +1108,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1123,6 +1123,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.index .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.index .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1:hover {
+  opacity             : .1;
 }
 .index .sidenav .sidenav1 .stackedgroup .group3item5 {
   background-color    : rgba(255,255,255,0.0);
@@ -1160,7 +1177,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1175,6 +1192,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.index .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.index .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1:hover {
+  opacity             : .1;
 }
 .index .sidenav .sidenav1 .stackedgroup .group3item6 {
   background-color    : rgba(255,255,255,0.0);
@@ -1212,7 +1246,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(83, 101, 119, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -1227,6 +1261,23 @@ div {
   margin              : 0;
   display             : flex;
   left                : 42px;
+}
+.index .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1 {
+  background-color    : rgba(0, 255, 252, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.index .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1:hover {
+  opacity             : .1;
 }
 .index .sidenav .sidenav1 .stackedgroup .group4header {
   background-color    : rgba(255,255,255,0.0);
@@ -2354,6 +2405,58 @@ div {
   display             : flex;
   left                : 42px;
 }
+.index .sidenav .sidenav1 .stackedgroup .group5item131 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 42px;
+  margin              : 0px 0 0 0;
+  width               : 280px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .sidenav .sidenav1 .stackedgroup .group5item131 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : auto;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(193, 198, 204, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.index .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : auto;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 42px;
+}
 .index .sidenav .sidenav1 .stackedgroup .group5item13 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -2582,8 +2685,8 @@ div {
 .index .abstractwavylinesandpatternsillustrationpknrth {
   background-color    : rgba(255,255,255,0.0);
   top                 : 969px;
-  height              : 543px;
-  width               : 1200px;
+  height              : 519px;
+  width               : 1147px;
   position            : absolute;
   margin              : 0;
   left                : 281px;
@@ -2607,7 +2710,7 @@ div {
 }
 .index .veloframeworkdesigcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 586px;
+  top                 : 592px;
   height              : auto;
   width               : 540px;
   position            : absolute;
@@ -2619,10 +2722,10 @@ div {
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
-  font-size           : 30.0px;
+  font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : left;
-  line-height         : 41.0px;
+  line-height         : 32.0px;
 }
 .index .veloframeworkdesigcopy .span1 {
   
@@ -2637,7 +2740,7 @@ div {
 }
 .index .veloframeworkdesigcopy4 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 745px;
+  top                 : 718px;
   height              : auto;
   width               : 540px;
   position            : absolute;
@@ -2649,14 +2752,14 @@ div {
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
-  font-size           : 30.0px;
+  font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : left;
-  line-height         : 41.0px;
+  line-height         : 32.0px;
 }
-.index .veloframeworkdesigcopy3 {
+.index .veloframeworkdesigcopy6 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1065px;
+  top                 : 1212px;
   height              : auto;
   width               : 538px;
   position            : absolute;
@@ -2668,10 +2771,10 @@ div {
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
-  font-size           : 30.0px;
+  font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : left;
-  line-height         : 41.0px;
+  line-height         : 32.0px;
 }
 .index .veloframeworkdesigcopy2 {
   background-color    : rgba(255,255,255,0.0);
@@ -2851,6 +2954,66 @@ div {
   color               : rgba(255, 255, 255, 1.0);
   text-align          : left;
   line-height         : 22.0px;
+}
+.index .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1094px;
+  height              : 82px;
+  width               : 441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 616px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .group2 .velosmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 76px;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 358px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .group2 .mwsmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 82px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .group2 .definerysmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 80px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .group2 .a17small {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 82px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 239px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
