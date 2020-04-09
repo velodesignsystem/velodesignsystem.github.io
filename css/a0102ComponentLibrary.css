@@ -12,6 +12,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(245, 245, 245, 1.0);
+  opacity             : 1.0;
 }
 a {
   text-decoration     : none;
@@ -40,9 +41,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 305px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents {
   display             : flex;
@@ -54,9 +54,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 {
   display             : flex;
@@ -68,9 +67,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .title {
   background-color    : rgba(255,255,255,0.0);
@@ -78,9 +76,8 @@ div {
   height              : 36px;
   margin              : 0;
   width               : 490px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .title .paddinggroup2 {
   background-color    : rgba(255,255,255,0.0);
@@ -90,9 +87,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .title .paddinggroup2 .sectioncardtitle {
   background-color    : rgba(255,255,255,0.0);
@@ -103,9 +99,8 @@ div {
   margin              : 0;
   left                : 25px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
   background-color    : rgba(255,255,255,0.0);
@@ -115,9 +110,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
   background-color    : rgba(255,255,255,0.0);
@@ -127,9 +121,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -144,9 +137,8 @@ div {
   height              : 750px;
   margin              : 12px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
@@ -157,9 +149,8 @@ div {
   margin              : 0;
   left                : 1px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
@@ -169,9 +160,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -181,9 +171,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .basiccontent {
   display             : flex;
@@ -197,9 +186,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 25px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .basiccontent .a00examplesketchworkflow {
   background-color    : rgba(255,255,255,0.0);
@@ -207,9 +195,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .basiccontent .textparagraph {
   background-color    : rgba(255,255,255,0.0);
@@ -217,9 +204,8 @@ div {
   height              : 190px;
   margin              : 24px 0 0 0;
   width               : 611px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a00designingwithcomponents .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -229,9 +215,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -250,9 +235,8 @@ div {
   height              : auto;
   margin              : 80px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 {
   display             : flex;
@@ -264,9 +248,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .title {
   background-color    : rgba(255,255,255,0.0);
@@ -274,9 +257,8 @@ div {
   height              : 36px;
   margin              : 0;
   width               : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .title .paddinggroup2 {
   background-color    : rgba(255,255,255,0.0);
@@ -286,9 +268,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .title .paddinggroup2 .sectioncardtitle {
   background-color    : rgba(255,255,255,0.0);
@@ -299,9 +280,8 @@ div {
   margin              : 0;
   left                : 25px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
   background-color    : rgba(255,255,255,0.0);
@@ -311,9 +291,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
   background-color    : rgba(255,255,255,0.0);
@@ -323,9 +302,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -340,9 +318,8 @@ div {
   height              : 1090px;
   margin              : 12px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
@@ -353,9 +330,8 @@ div {
   margin              : 0;
   left                : 1px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
@@ -365,9 +341,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -377,9 +352,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent {
   display             : flex;
@@ -393,9 +367,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .a01global1 {
   background-color    : rgba(255,255,255,0.0);
@@ -403,9 +376,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .textparagraph1 {
   background-color    : rgba(255,255,255,0.0);
@@ -413,9 +385,8 @@ div {
   height              : 109px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -425,9 +396,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -442,9 +412,8 @@ div {
   height              : 401px;
   margin              : 24px 0 0 0;
   width               : 484px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .group .a01globalcomponentlocation {
   background-color    : rgba(255,255,255,0.0);
@@ -454,9 +423,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .group .pageheaderpath {
   background-color    : rgba(255,255,255,0.0);
@@ -466,9 +434,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 6px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .textparagraph {
   background-color    : rgba(255,255,255,0.0);
@@ -476,9 +443,8 @@ div {
   height              : 82px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a01global .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -488,9 +454,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -509,9 +474,8 @@ div {
   height              : auto;
   margin              : 80px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 {
   display             : flex;
@@ -523,9 +487,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .title {
   background-color    : rgba(255,255,255,0.0);
@@ -533,9 +496,8 @@ div {
   height              : 36px;
   margin              : 0;
   width               : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .title .paddinggroup2 {
   background-color    : rgba(255,255,255,0.0);
@@ -545,9 +507,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .title .paddinggroup2 .sectioncardtitle {
   background-color    : rgba(255,255,255,0.0);
@@ -558,9 +519,8 @@ div {
   margin              : 0;
   left                : 25px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
   background-color    : rgba(255,255,255,0.0);
@@ -570,9 +530,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
   background-color    : rgba(255,255,255,0.0);
@@ -582,9 +541,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -599,9 +557,8 @@ div {
   height              : 1147px;
   margin              : 12px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
@@ -612,9 +569,8 @@ div {
   margin              : 0;
   left                : 1px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
@@ -624,9 +580,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -636,9 +591,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent {
   display             : flex;
@@ -652,9 +606,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .a02icons1 {
   background-color    : rgba(255,255,255,0.0);
@@ -662,9 +615,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .textparagraph1 {
   background-color    : rgba(255,255,255,0.0);
@@ -672,9 +624,8 @@ div {
   height              : 136px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -684,9 +635,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -701,9 +651,8 @@ div {
   height              : 399px;
   margin              : 24px 0 0 0;
   width               : 456px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .screenshot20190603at101859pm2 .screenshot20190603at101859pm {
   background-color    : rgba(255,255,255,0.0);
@@ -713,9 +662,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .screenshot20190603at101859pm2 .pageheaderpath {
   background-color    : rgba(255,255,255,0.0);
@@ -725,9 +673,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .textparagraph {
   background-color    : rgba(255,255,255,0.0);
@@ -735,9 +682,8 @@ div {
   height              : 82px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a02icons .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -747,9 +693,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -768,9 +713,8 @@ div {
   height              : auto;
   margin              : 80px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 {
   display             : flex;
@@ -782,9 +726,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .title {
   background-color    : rgba(255,255,255,0.0);
@@ -792,9 +735,8 @@ div {
   height              : 36px;
   margin              : 0;
   width               : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .title .paddinggroup2 {
   background-color    : rgba(255,255,255,0.0);
@@ -804,9 +746,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .title .paddinggroup2 .sectioncardtitle {
   background-color    : rgba(255,255,255,0.0);
@@ -817,9 +758,8 @@ div {
   margin              : 0;
   left                : 25px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
   background-color    : rgba(255,255,255,0.0);
@@ -829,9 +769,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
   background-color    : rgba(255,255,255,0.0);
@@ -841,9 +780,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -858,9 +796,8 @@ div {
   height              : 1579px;
   margin              : 12px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
@@ -871,9 +808,8 @@ div {
   margin              : 0;
   left                : 1px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
@@ -883,9 +819,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -895,9 +830,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent {
   display             : flex;
@@ -911,9 +845,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 25px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .a03ondark1 {
   background-color    : rgba(255,255,255,0.0);
@@ -921,9 +854,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .a03ondark2 {
   background-color    : rgba(255,255,255,0.0);
@@ -931,9 +863,8 @@ div {
   height              : auto;
   margin              : 24px 0 0 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .textparagraph1 {
   background-color    : rgba(255,255,255,0.0);
@@ -941,9 +872,8 @@ div {
   height              : 217px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -953,9 +883,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -970,9 +899,8 @@ div {
   height              : 397px;
   margin              : 24px 0 0 0;
   width               : 441px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .screenshot20190603at101907pm2 .screenshot20190603at101907pm {
   background-color    : rgba(255,255,255,0.0);
@@ -982,9 +910,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .screenshot20190603at101907pm2 .pageheaderpath {
   background-color    : rgba(255,255,255,0.0);
@@ -994,9 +921,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .textparagraph {
   background-color    : rgba(255,255,255,0.0);
@@ -1004,9 +930,8 @@ div {
   height              : 82px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a03ondark .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -1016,9 +941,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -1037,9 +961,8 @@ div {
   height              : auto;
   margin              : 80px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 {
   display             : flex;
@@ -1051,9 +974,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .title {
   background-color    : rgba(255,255,255,0.0);
@@ -1061,9 +983,8 @@ div {
   height              : 36px;
   margin              : 0;
   width               : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .title .paddinggroup2 {
   background-color    : rgba(255,255,255,0.0);
@@ -1073,9 +994,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .title .paddinggroup2 .sectioncardtitle {
   background-color    : rgba(255,255,255,0.0);
@@ -1086,9 +1006,8 @@ div {
   margin              : 0;
   left                : 25px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1098,9 +1017,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
   background-color    : rgba(255,255,255,0.0);
@@ -1110,9 +1028,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -1127,9 +1044,8 @@ div {
   height              : 1690px;
   margin              : 12px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
@@ -1140,9 +1056,8 @@ div {
   margin              : 0;
   left                : 1px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1152,9 +1067,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -1164,9 +1078,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent {
   display             : flex;
@@ -1180,9 +1093,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 25px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .onwhiteb {
   background-color    : rgba(255,255,255,0.0);
@@ -1190,9 +1102,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .a04onwhite2transfers {
   background-color    : rgba(255,255,255,0.0);
@@ -1200,9 +1111,8 @@ div {
   height              : auto;
   margin              : 24px 0 0 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .textparagraph1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1210,9 +1120,8 @@ div {
   height              : 190px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -1222,9 +1131,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -1239,9 +1147,8 @@ div {
   height              : 370px;
   margin              : 24px 0 0 0;
   width               : 466px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .screenshot20190603at101915pm2 .screenshot20190603at101915pm {
   background-color    : rgba(255,255,255,0.0);
@@ -1251,9 +1158,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .screenshot20190603at101915pm2 .pageheaderpath {
   background-color    : rgba(255,255,255,0.0);
@@ -1263,9 +1169,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .textparagraph {
   background-color    : rgba(255,255,255,0.0);
@@ -1273,9 +1178,8 @@ div {
   height              : 82px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a04onwhite .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -1285,9 +1189,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -1306,9 +1209,8 @@ div {
   height              : auto;
   margin              : 80px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 {
   display             : flex;
@@ -1320,9 +1222,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .title {
   background-color    : rgba(255,255,255,0.0);
@@ -1330,9 +1231,8 @@ div {
   height              : 36px;
   margin              : 0;
   width               : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .title .paddinggroup2 {
   background-color    : rgba(255,255,255,0.0);
@@ -1342,9 +1242,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .title .paddinggroup2 .sectioncardtitle {
   background-color    : rgba(255,255,255,0.0);
@@ -1355,9 +1254,8 @@ div {
   margin              : 0;
   left                : 25px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1367,9 +1265,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
   background-color    : rgba(255,255,255,0.0);
@@ -1379,9 +1276,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
@@ -1396,9 +1292,8 @@ div {
   height              : 1388px;
   margin              : 12px 0 0 0;
   width               : 871px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
@@ -1409,9 +1304,8 @@ div {
   margin              : 0;
   left                : 1px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1421,9 +1315,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -1433,9 +1326,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent {
   display             : flex;
@@ -1449,9 +1341,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 25px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .a05feed1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1459,9 +1350,8 @@ div {
   height              : auto;
   margin              : 0;
   width               : 822px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .textparagraph1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1469,9 +1359,8 @@ div {
   height              : 136px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -1481,9 +1370,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -1498,9 +1386,8 @@ div {
   height              : 409px;
   margin              : 24px 0 0 0;
   width               : 353px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .screenshot20190603at101924pm2 .screenshot20190603at101924pm {
   background-color    : rgba(255,255,255,0.0);
@@ -1510,9 +1397,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .screenshot20190603at101924pm2 .pageheaderpath {
   background-color    : rgba(255,255,255,0.0);
@@ -1522,9 +1408,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 3px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .textparagraph {
   background-color    : rgba(255,255,255,0.0);
@@ -1532,9 +1417,8 @@ div {
   height              : 82px;
   margin              : 24px 0 0 0;
   width               : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .contentcardssection .a05feed .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
   background-color    : rgba(255,255,255,0.0);
@@ -1544,9 +1428,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 300;
   font-style          : normal;
@@ -1563,9 +1446,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 280px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .pagetitleheader4tabs .whitebackground {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -1575,9 +1457,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .pagetitleheader4tabs .pageheader {
   background-color    : rgba(255,255,255,0.0);
@@ -1587,9 +1468,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 48px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 200;
   font-style          : normal;
@@ -1606,9 +1486,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1618,9 +1497,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .sidenavbackground {
   background-color    : rgba(255,255,255,0.0);
@@ -1630,9 +1508,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .sidenavbackground .sidenavbackground1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1642,9 +1519,8 @@ div {
   position            : relative;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .sidenavbackground .sidenavbackground1 .rectangle2 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -1654,9 +1530,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .sidenavbackground .sidenavbackground1 .rectangle1 {
   background-color    : rgba(193, 198, 204, 1.0);
@@ -1666,9 +1541,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 280px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup {
   display             : flex;
@@ -1682,9 +1556,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1header {
   background-color    : rgba(255,255,255,0.0);
@@ -1693,9 +1566,8 @@ div {
   margin              : 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1header .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1705,9 +1577,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1header .introductioncopy2 {
   background-color    : rgba(255,255,255,0.0);
@@ -1717,9 +1588,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -1736,9 +1606,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item1 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1748,19 +1617,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item1 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -1781,6 +1647,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item1 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item1 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -1789,11 +1658,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item1 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item1 .rectangle1:hover {
   opacity             : .1;
@@ -1804,10 +1674,12 @@ div {
   height              : 42px;
   margin              : 0px 0 0 0;
   width               : 280px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item2 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item2:hover {
   opacity             : 1;
@@ -1820,19 +1692,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item2 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -1853,6 +1722,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item2 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -1860,9 +1732,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1872,19 +1743,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -1905,6 +1773,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -1913,11 +1784,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item3 .rectangle1:hover {
   opacity             : .1;
@@ -1929,9 +1801,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item4 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -1941,19 +1812,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item4 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -1974,6 +1842,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item4 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item4 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -1982,11 +1853,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item4 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item4 .rectangle1:hover {
   opacity             : .1;
@@ -1998,9 +1870,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item5 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2010,19 +1881,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item5 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2043,6 +1911,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item5 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item5 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2051,11 +1922,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item5 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group1item5 .rectangle1:hover {
   opacity             : .1;
@@ -2067,9 +1939,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2header .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2079,9 +1950,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2header .introductioncopy2 {
   background-color    : rgba(255,255,255,0.0);
@@ -2091,9 +1961,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -2110,9 +1979,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item1 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2122,19 +1990,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item1 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2155,6 +2020,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item1 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item1 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2163,11 +2031,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item1 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item1 .rectangle1:hover {
   opacity             : .1;
@@ -2179,9 +2048,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item2 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2191,19 +2059,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item2 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2224,6 +2089,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item2 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item2 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2232,11 +2100,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item2 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item2 .rectangle1:hover {
   opacity             : .1;
@@ -2248,9 +2117,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item3 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2260,19 +2128,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item3 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2293,6 +2158,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item3 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item3 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2301,11 +2169,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item3 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item3 .rectangle1:hover {
   opacity             : .1;
@@ -2317,9 +2186,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item4 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2329,19 +2197,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item4 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2362,6 +2227,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item4 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item4 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2370,11 +2238,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item4 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item4 .rectangle1:hover {
   opacity             : .1;
@@ -2386,9 +2255,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item5 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2398,19 +2266,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item5 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2431,6 +2296,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item5 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item5 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2439,11 +2307,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item5 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group2item5 .rectangle1:hover {
   opacity             : .1;
@@ -2455,9 +2324,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3header .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2467,9 +2335,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3header .introductioncopy2 {
   background-color    : rgba(255,255,255,0.0);
@@ -2479,9 +2346,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -2498,9 +2364,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item1 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2510,19 +2375,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item1 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2543,6 +2405,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item1 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item1 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2551,11 +2416,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item1 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item1 .rectangle1:hover {
   opacity             : .1;
@@ -2567,9 +2433,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item2 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2579,19 +2444,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item2 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2612,6 +2474,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item2 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item2 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2620,11 +2485,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item2 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item2 .rectangle1:hover {
   opacity             : .1;
@@ -2636,9 +2502,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item4 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2648,19 +2513,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item4 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2681,6 +2543,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item4 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2689,11 +2554,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item4 .rectangle1:hover {
   opacity             : .1;
@@ -2705,9 +2571,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item5 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2717,19 +2582,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item5 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2750,6 +2612,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item5 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2758,11 +2623,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item5 .rectangle1:hover {
   opacity             : .1;
@@ -2774,9 +2640,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item6 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2786,19 +2651,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item6 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2819,6 +2681,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item6 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1 {
   background-color    : rgba(0, 255, 252, 1.0);
   top                 : 0px;
@@ -2827,11 +2692,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1 {
+  pointer-events      : auto;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group3item6 .rectangle1:hover {
   opacity             : .1;
@@ -2843,9 +2709,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4header .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2855,9 +2720,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4header .introductioncopy2 {
   background-color    : rgba(255,255,255,0.0);
@@ -2867,9 +2731,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -2886,9 +2749,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item1 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2898,19 +2760,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item1 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2931,6 +2790,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item1 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item2 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -2938,9 +2800,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item2 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -2950,19 +2811,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item2 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -2983,6 +2841,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item2 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item3 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -2990,9 +2851,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item3 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3002,19 +2862,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item3 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3035,6 +2892,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item3 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item4 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3042,9 +2902,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item4 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3054,19 +2913,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item4 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3087,6 +2943,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item4 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item5 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3094,9 +2953,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item5 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3106,19 +2964,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item5 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3139,6 +2994,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item5 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item6 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3146,9 +3004,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item6 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3158,19 +3015,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item6 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3191,6 +3045,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item6 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item7 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3198,9 +3055,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item7 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3210,19 +3066,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item7 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3243,6 +3096,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item7 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item8 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3250,9 +3106,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item8 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3262,19 +3117,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item8 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3295,6 +3147,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group4item8 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5header {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3302,9 +3157,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5header .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3314,9 +3168,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5header .introductioncopy2 {
   background-color    : rgba(255,255,255,0.0);
@@ -3326,9 +3179,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 24px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -3345,9 +3197,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item1 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3357,19 +3208,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item1 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3390,6 +3238,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item1 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item2 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3397,9 +3248,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item2 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3409,19 +3259,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item2 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3442,6 +3289,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item2 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item3 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3449,9 +3299,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item3 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3461,19 +3310,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item3 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3494,6 +3340,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item3 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item4 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3501,9 +3350,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item4 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3513,19 +3361,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item4 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3546,6 +3391,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item4 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item5 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3553,9 +3401,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item5 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3565,19 +3412,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item5 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3598,6 +3442,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item5 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item6 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3605,9 +3452,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item6 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3617,19 +3463,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item6 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3650,6 +3493,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item6 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item7 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3657,9 +3503,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item7 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3669,19 +3514,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item7 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3702,6 +3544,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item7 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item8 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3709,9 +3554,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item8 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3721,19 +3565,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item8 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3754,6 +3595,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item8 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item9 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3761,9 +3605,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item9 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3773,19 +3616,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item9 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3806,6 +3646,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item9 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item10 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3813,9 +3656,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item10 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3825,19 +3667,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item10 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3858,6 +3697,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item10 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item11 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3865,9 +3707,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item11 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3877,19 +3718,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item11 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3910,6 +3748,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item11 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item12 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3917,9 +3758,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item12 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3929,19 +3769,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item12 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -3962,6 +3799,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item12 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item131 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -3969,9 +3809,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item131 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -3981,19 +3820,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -4014,6 +3850,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item131 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item13 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -4021,9 +3860,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item13 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -4033,19 +3871,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item13 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -4066,6 +3901,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item13 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item14 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
@@ -4073,9 +3911,8 @@ div {
   margin              : 0px 0 0 0;
   width               : 280px;
   overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item14 .background {
   background-color    : rgba(255,255,255,0.0);
@@ -4085,19 +3922,16 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item14 .thevelolookandfecopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : auto;
-  height              : auto;
-  pointer-events      : auto;
   position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  height              : auto;
+  width               : auto;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
@@ -4118,6 +3952,9 @@ div {
   display             : flex;
   left                : 42px;
 }
+.a0102componentlibrary .sidenav .sidenav1 .stackedgroup .group5item14 .thevelolookandfecopy-layout-container > * {
+  pointer-events      : auto;
+}
 .a0102componentlibrary .rectangle {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 185px;
@@ -4130,8 +3967,6 @@ div {
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
@@ -4143,9 +3978,8 @@ div {
   position            : fixed;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .topvfdstitlesearchbar {
   background-color    : rgba(255,255,255,0.0);
@@ -4155,9 +3989,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .topvfdstitlesearchbar .bggradient {
   background-color    : rgba(255,255,255,0.0);
@@ -4167,9 +4000,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .stackedgroup {
   display             : flex;
@@ -4183,9 +4015,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 20px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .stackedgroup .logowhite {
   background-color    : rgba(255,255,255,0.0);
@@ -4193,9 +4024,8 @@ div {
   height              : 22px;
   margin              : 0;
   width               : 29px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .stackedgroup .logowhite .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -4205,9 +4035,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 3px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .stackedgroup .logowhite .shape1 {
   background-color    : rgba(255,255,255,0.0);
@@ -4217,9 +4046,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .stackedgroup .logowhite .shape2 {
   background-color    : rgba(255,255,255,0.0);
@@ -4229,9 +4057,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 12px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .a0102componentlibrary .frameworkssiteheader .stackedgroup .veloframeworkdesig {
   background-color    : rgba(255,255,255,0.0);
@@ -4239,9 +4066,8 @@ div {
   height              : auto;
   margin              : 0 0 0 14px;
   width               : auto;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
   font-weight         : 700;
   font-style          : normal;
@@ -4328,4 +4154,35 @@ div {
   {
       opacity: 1;
     }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
 }
