@@ -37,7 +37,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 280px;
   height              : auto;
-  width               : 872px;
+  width               : 871px;
   position            : absolute;
   margin              : 0;
   left                : 304px;
@@ -53,7 +53,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 872px;
+  width               : 871px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -66,7 +66,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 872px;
+  width               : 871px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -136,7 +136,7 @@ div {
   position            : relative;
   height              : 900px;
   margin              : 12px 0 0 0;
-  width               : 872px;
+  width               : 871px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -3169,4 +3169,10 @@ div {
 .anima-listeners-active-click,
 .anima-listeners-active-click * {
   cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
 }

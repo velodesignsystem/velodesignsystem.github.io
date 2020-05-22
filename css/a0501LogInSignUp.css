@@ -5,7 +5,7 @@
   width               : 100%;
   min-width           : 1200px;
   height              : 100vh;
-  min-height          : 2075px;
+  min-height          : 5929px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -37,12 +37,797 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 280px;
   height              : auto;
-  width               : 902px;
+  width               : 874px;
   position            : absolute;
   margin              : 0;
-  left                : 304px;
+  left                : 303px;
   transform           : rotate(0deg);
   opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .title {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 36px;
+  margin              : 0;
+  width               : 474px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .title .paddinggroup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 473px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .title .paddinggroup2 .sectioncardtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 448px;
+  position            : relative;
+  margin              : 0;
+  left                : 25px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 448px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(13, 59, 95, 1.0);
+  text-align          : left;
+  line-height         : 38.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 644px;
+  margin              : 12px 0 0 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .backgroundcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 643px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .backgroundcard .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 643px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .backgroundcard .rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 643px;
+  width               : 874px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .basiccontent {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 826px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .basiccontent .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .basiccontent .textparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 24px 0 0 0;
+  width               : 590px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview3 .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 589px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 80px 0 0 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .title {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 36px;
+  margin              : 0;
+  width               : 489px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 488px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 .sectioncardtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : relative;
+  margin              : 0;
+  left                : 25px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(13, 59, 95, 1.0);
+  text-align          : left;
+  line-height         : 38.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 1709px;
+  margin              : 12px 0 0 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .backgroundcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1708px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .backgroundcard .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1708px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .backgroundcard .rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1708px;
+  width               : 874px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 826px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph3 .veloappdesignsystcopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .bitmapcopy19 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph2 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .bitmapcopy18 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph1 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .group2copy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 415px;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .group2copy .rectangle1 {
+  background-color    : rgba(245, 245, 245, 1.0);
+  top                 : 0px;
+  height              : 415px;
+  width               : 825px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .group2copy .bitmapcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 166px;
+  height              : 237px;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 638px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .group2copy .bitmapcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 415px;
+  width               : 667px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview2 .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 80px 0 0 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .title {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 36px;
+  margin              : 0;
+  width               : 489px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 488px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 .sectioncardtitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : relative;
+  margin              : 0;
+  left                : 25px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 .sectioncardtitle .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .title .paddinggroup2 .sectioncardtitle .veloappdesignsystcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(13, 59, 95, 1.0);
+  text-align          : left;
+  line-height         : 38.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 1733px;
+  margin              : 12px 0 0 0;
+  width               : 874px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1732px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1732px;
+  width               : 873px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard .rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1732px;
+  width               : 874px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : 826px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph2 .veloappdesignsystcopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .bitmapcopy16 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .veloappdesignsystcopy14 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 609px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .bitmapcopy17 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph1 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph1 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group3copy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 510px;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group3copy .bitmapcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 510px;
+  width               : 642px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group3copy .bitmapcopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 510px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 564px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 28px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .textparagraph .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
 }
 .a0501loginsignup .contentcardssection .a01backgroundsoverview {
   display             : flex;
@@ -52,8 +837,8 @@ div {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
-  margin              : 0;
-  width               : 902px;
+  margin              : 80px 0 0 0;
+  width               : 874px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -66,7 +851,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 902px;
+  width               : 874px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -134,17 +919,17 @@ div {
 .a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 653px;
+  height              : 1085px;
   margin              : 12px 0 0 0;
-  width               : 902px;
+  width               : 874px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 652px;
-  width               : 901px;
+  height              : 1084px;
+  width               : 873px;
   position            : absolute;
   margin              : 0;
   left                : 1px;
@@ -155,8 +940,8 @@ div {
 .a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 652px;
-  width               : 901px;
+  height              : 1084px;
+  width               : 873px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -166,8 +951,8 @@ div {
 .a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 652px;
-  width               : 902px;
+  height              : 1084px;
+  width               : 874px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -182,19 +967,28 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 24px;
   height              : auto;
-  width               : 854px;
+  width               : 826px;
   position            : absolute;
   margin              : 0;
   left                : 24px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmap {
+.a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy14 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 853px;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0501loginsignup .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy15 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -2002,12 +2796,11 @@ div {
   height              : 42px;
   margin              : 0px 0 0 0;
   width               : 280px;
-  overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0501loginsignup .sidenav .sidenav1 .stackedgroup .group5item1 .background {
-  background-color    : rgba(255,255,255,0.0);
+.a0501loginsignup .sidenav .sidenav1 .stackedgroup .group5item1 .rectangl {
+  background-color    : rgba(245, 245, 245, 1.0);
   top                 : 0px;
   height              : 42px;
   width               : 280px;
@@ -2025,10 +2818,10 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
-  font-weight         : 400;
+  font-weight         : 700;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(9, 82, 131, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -2991,4 +3784,10 @@ div {
 .anima-listeners-active-click,
 .anima-listeners-active-click * {
   cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
 }

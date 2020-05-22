@@ -5,7 +5,7 @@
   width               : 100%;
   min-width           : 1200px;
   height              : 100vh;
-  min-height          : 4016px;
+  min-height          : 7393px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -134,7 +134,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 565px;
+  height              : 563px;
   margin              : 12px 0 0 0;
   width               : 871px;
   transform           : rotate(0deg);
@@ -143,7 +143,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 564px;
+  height              : 562px;
   width               : 870px;
   position            : absolute;
   margin              : 0;
@@ -155,7 +155,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 564px;
+  height              : 562px;
   width               : 870px;
   position            : absolute;
   margin              : 0;
@@ -166,7 +166,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 564px;
+  height              : 562px;
   width               : 871px;
   position            : absolute;
   margin              : 0;
@@ -180,36 +180,36 @@ div {
   flex-direction      : column;
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0.0);
-  top                 : 24px;
+  top                 : 22px;
   height              : auto;
   width               : 822px;
   position            : absolute;
   margin              : 0;
-  left                : 24px;
+  left                : 22px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 391px;
+  height              : 397px;
   margin              : 0;
-  width               : 800px;
+  width               : 817px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .group27 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 2px;
   height              : 389px;
   width               : 189px;
   position            : absolute;
   margin              : 0;
-  left                : 203px;
+  left                : 209px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .group27 .bitmap3 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .group27 .bitmap2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 389px;
@@ -233,34 +233,56 @@ div {
 }
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .bitmap {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 3px;
-  height              : 388px;
-  width               : 189px;
+  top                 : 0px;
+  height              : 396px;
+  width               : 197px;
   position            : absolute;
   margin              : 0;
-  left                : 407px;
+  left                : 414px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .bitmap1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 388px;
-  width               : 189px;
+  height              : 396px;
+  width               : 197px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .bitmap2 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .group2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 3px;
-  height              : 388px;
-  width               : 189px;
+  top                 : 0px;
+  height              : 396px;
+  width               : 196px;
   position            : absolute;
   margin              : 0;
-  left                : 611px;
+  left                : 621px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .group2 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 396px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview1 .contentcard01 .card .basiccontent .group9 .group2 .bitmap11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 274px;
+  height              : 26px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -381,7 +403,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 2914px;
+  height              : 6277px;
   margin              : 12px 0 0 0;
   width               : 875px;
   transform           : rotate(0deg);
@@ -390,7 +412,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 2913px;
+  height              : 6276px;
   width               : 874px;
   position            : absolute;
   margin              : 0;
@@ -402,7 +424,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 2913px;
+  height              : 6276px;
   width               : 874px;
   position            : absolute;
   margin              : 0;
@@ -413,7 +435,7 @@ div {
 .a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 2913px;
+  height              : 6276px;
   width               : 875px;
   position            : absolute;
   margin              : 0;
@@ -436,7 +458,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph5 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph9 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : 28px;
@@ -445,7 +467,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph5 .veloappdesignsystcopy13 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph9 .veloappdesignsystcopy13 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1px;
   height              : auto;
@@ -472,7 +494,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph4 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph8 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : 28px;
@@ -481,7 +503,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph4 .veloappdesignsystcopy13 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph8 .veloappdesignsystcopy13 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1px;
   height              : auto;
@@ -504,7 +526,79 @@ div {
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 826px;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph7 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph7 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph6 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph6 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy93 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -535,12 +629,84 @@ div {
   text-align          : left;
   line-height         : 27.0px;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy3 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy92 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 826px;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph4 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph4 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy91 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph5 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 27px;
+  margin              : 24px 0 0 0;
+  width               : 610px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph5 .veloappdesignsystcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Nunito Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(8, 37, 63, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -571,19 +737,41 @@ div {
   text-align          : left;
   line-height         : 27.0px;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy9 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy11 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : auto;
+  height              : 521px;
   margin              : 24px 0 0 0;
-  width               : 826px;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy11 .bitmapcopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 521px;
+  width               : 825px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy11 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 325px;
+  height              : 9px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 702px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .textparagraph1 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 27px;
+  height              : 28px;
   margin              : 24px 0 0 0;
   width               : 610px;
   transform           : rotate(0deg);
@@ -607,7 +795,7 @@ div {
   text-align          : left;
   line-height         : 27.0px;
 }
-.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .bitmapcopy10 {
+.a0513securedcard .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group4copy {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
@@ -3032,12 +3220,11 @@ div {
   height              : 42px;
   margin              : 0px 0 0 0;
   width               : 280px;
-  overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0513securedcard .sidenav .sidenav1 .stackedgroup .group5item131 .background {
-  background-color    : rgba(255,255,255,0.0);
+.a0513securedcard .sidenav .sidenav1 .stackedgroup .group5item131 .rectangl {
+  background-color    : rgba(245, 245, 245, 1.0);
   top                 : 0px;
   height              : 42px;
   width               : 280px;
@@ -3055,10 +3242,10 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
-  font-weight         : 400;
+  font-weight         : 700;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(9, 82, 131, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -3181,13 +3368,13 @@ div {
 }
 .a0513securedcard .rectangle {
   background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 184px;
+  top                 : 189px;
   height              : 36px;
   box-sizing          : border-box;
   width               : 103px;
   position            : absolute;
   margin              : 0;
-  left                : 439px;
+  left                : 438px;
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(150, 150, 150, 1.0);
@@ -3409,4 +3596,10 @@ div {
 .anima-listeners-active-click,
 .anima-listeners-active-click * {
   cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
 }

@@ -5,7 +5,7 @@
   width               : 100%;
   min-width           : 1200px;
   height              : 100vh;
-  min-height          : 4874px;
+  min-height          : 6668px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -37,7 +37,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 280px;
   height              : auto;
-  width               : 872px;
+  width               : 874px;
   position            : absolute;
   margin              : 0;
   left                : 304px;
@@ -234,7 +234,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 80px 0 0 0;
-  width               : 872px;
+  width               : 874px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -247,7 +247,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 0;
-  width               : 872px;
+  width               : 874px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -315,17 +315,17 @@ div {
 .a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 3437px;
+  height              : 5193px;
   margin              : 12px 0 0 0;
-  width               : 872px;
+  width               : 874px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 3436px;
-  width               : 871px;
+  height              : 5192px;
+  width               : 873px;
   position            : absolute;
   margin              : 0;
   left                : 1px;
@@ -336,8 +336,8 @@ div {
 .a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 3436px;
-  width               : 871px;
+  height              : 5192px;
+  width               : 873px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -347,8 +347,8 @@ div {
 .a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .backgroundcard .rectanglecopy2 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 3436px;
-  width               : 872px;
+  height              : 5192px;
+  width               : 874px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -363,7 +363,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 24px;
   height              : auto;
-  width               : 824px;
+  width               : 826px;
   position            : absolute;
   margin              : 0;
   left                : 24px;
@@ -402,7 +402,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 823px;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -438,7 +438,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 822px;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -474,7 +474,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 801px;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -505,12 +505,34 @@ div {
   text-align          : left;
   line-height         : 27.0px;
 }
-.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .a05 {
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group2 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : auto;
+  height              : 464px;
   margin              : 24px 0 0 0;
-  width               : 802px;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group2 .a05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 464px;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 564px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group2 .a051 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 464px;
+  width               : 564px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -541,12 +563,21 @@ div {
   text-align          : left;
   line-height         : 27.0px;
 }
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .a041 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 24px 0 0 0;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
 .a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .a04 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 802px;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -577,12 +608,34 @@ div {
   text-align          : left;
   line-height         : 27.0px;
 }
-.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .a06 {
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group3 {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : auto;
+  height              : 482px;
   margin              : 24px 0 0 0;
-  width               : 802px;
+  width               : 825px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group3 .a06 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 482px;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 497px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.a0505transactiondetails .contentcardssection .a01backgroundsoverview .contentcard01 .card .basiccontent .group3 .a061 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 482px;
+  width               : 496px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -618,7 +671,7 @@ div {
   position            : relative;
   height              : auto;
   margin              : 24px 0 0 0;
-  width               : 801px;
+  width               : 825px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -2630,12 +2683,11 @@ div {
   height              : 42px;
   margin              : 0px 0 0 0;
   width               : 280px;
-  overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.a0505transactiondetails .sidenav .sidenav1 .stackedgroup .group5item5 .background {
-  background-color    : rgba(255,255,255,0.0);
+.a0505transactiondetails .sidenav .sidenav1 .stackedgroup .group5item5 .rectangl {
+  background-color    : rgba(245, 245, 245, 1.0);
   top                 : 0px;
   height              : 42px;
   width               : 280px;
@@ -2653,10 +2705,10 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Nunito Sans", Helvetica, Arial, serif;
-  font-weight         : 400;
+  font-weight         : 700;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(193, 198, 204, 1.0);
+  color               : rgba(9, 82, 131, 1.0);
   text-align          : left;
   line-height         : 18.0px;
 }
@@ -3415,4 +3467,10 @@ div {
 .anima-listeners-active-click,
 .anima-listeners-active-click * {
   cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
 }
